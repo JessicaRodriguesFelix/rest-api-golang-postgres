@@ -9,7 +9,10 @@ import (
 func ListFacts(c *fiber.Ctx) error {
 	facts:= []models.Fact{}
 	database.DB.Db.Find(&facts)
-	return c.Status(200).JSON(facts)
+	return c.Render("index", fiber.Map{
+		"Title": "Div Golang API",
+		"Subtitle": "Questions and Answers for funtimes with friends!",
+	})
 }
 
 func CreateFact(c *fiber.Ctx) error {

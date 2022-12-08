@@ -12,7 +12,7 @@ func ListFacts(c *fiber.Ctx) error {
 	database.DB.Db.Find(&facts)
 
 	return c.Render("index", fiber.Map{
-		"Title": "Div Golang API",
+		"Title": "Golang Fullstack - IT Jokes ",
 		"Subtitle": "Questions and Answers for funtimes with friends!",
 		"Facts": facts,
 	})

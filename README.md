@@ -12,3 +12,11 @@ Project is created with:
 * Docker version: 
     Client: 20.10.21
     Server: 20.10.21
+
+## Tutorials used along the way
+  
+  Docker Tutorial for Beginners 
+  
+   - TechWorld with Nana
+      https://www.youtube.com/watch?v=3c-iBn73dDE&list=PLy7NrYWoggjxtN4YbSMYFFdpaxb-fR4zC
+    

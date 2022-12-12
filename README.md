@@ -26,3 +26,9 @@ Project is created with:
       https://dev.to/yanoandri/database-handling-with-golang-gorm-crud-handling-4c66
    - How to build a RESTful API with Docker, PostgreSQL, and go-chi
       https://blog.logrocket.com/how-to-build-a-restful-api-with-docker-postgresql-and-go-chi/    
+      
+## Golang : Concepts applied
+  - GORM - It's a Object-relational mapping (ORM)library for Golang. 
+
+
+    

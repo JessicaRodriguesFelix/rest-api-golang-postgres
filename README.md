@@ -47,6 +47,8 @@ docker compose up
    - Here’s a Good Way to Do Live-reload in Go
      *  https://betterprogramming.pub/a-good-way-to-do-live-reload-for-go-b3707eb47336
      *  https://techinscribed.com/5-ways-to-live-reloading-go-applications/#:~:text=Air%20is%20a%20command%2Dline,github.com%2Fcosmtrek%2Fair
+  - How I build web frontends in Go
+     https://philipptanlak.com/web-frontends-in-go/
      
 ## Golang : Concepts applied
 

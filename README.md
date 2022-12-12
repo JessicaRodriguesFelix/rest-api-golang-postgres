@@ -35,7 +35,8 @@ docker compose up
    - Building an Express-style API in Go with Fiber
      https://blog.logrocket.com/express-style-api-go-fiber/ 
    - Go Fiber by Examples: How can the Fiber Web Framework be useful?
-     https://dev.to/koddr/go-fiber-by-examples-how-can-the-fiber-web-framework-be-useful-487a
+     * https://dev.to/koddr/go-fiber-by-examples-how-can-the-fiber-web-framework-be-useful-487a
+     * https://dev.to/koddr/go-fiber-by-examples-delving-into-built-in-functions-1p3k
    - Go Web Examples - Templates
      https://gowebexamples.com/templates/
    - Http responses in go fiber in 3 steps [ Golang ]
@@ -47,6 +48,9 @@ docker compose up
    - Here’s a Good Way to Do Live-reload in Go
      *  https://betterprogramming.pub/a-good-way-to-do-live-reload-for-go-b3707eb47336
      *  https://techinscribed.com/5-ways-to-live-reloading-go-applications/#:~:text=Air%20is%20a%20command%2Dline,github.com%2Fcosmtrek%2Fair
+     *  https://iaziz786.com/blog/golang-auto-reload-apps/
+     *  https://thedevelopercafe.com/articles/live-reload-in-go-with-air-4eff64b7a642
+     
   - How I build web frontends in Go
      https://philipptanlak.com/web-frontends-in-go/
      

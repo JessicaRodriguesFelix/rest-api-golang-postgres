@@ -21,5 +21,8 @@ Project is created with:
       https://www.youtube.com/watch?v=3c-iBn73dDE&list=PLy7NrYWoggjxtN4YbSMYFFdpaxb-fR4zC
    - Div Rhino: 
       https://divrhino.com/articles/full-stack-go-fiber-with-docker-postgres/
+      https://dev.to/divrhino/build-a-rest-api-from-scratch-with-go-and-docker-3o54
    - Database Handling with Golang GORM (CRUD Handling)
       https://dev.to/yanoandri/database-handling-with-golang-gorm-crud-handling-4c66
+   - How to build a RESTful API with Docker, PostgreSQL, and go-chi
+      https://blog.logrocket.com/how-to-build-a-restful-api-with-docker-postgresql-and-go-chi/    

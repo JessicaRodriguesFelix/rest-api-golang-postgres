@@ -28,12 +28,14 @@ Project is created with:
       https://blog.logrocket.com/how-to-build-a-restful-api-with-docker-postgresql-and-go-chi/ 
    - Top Go Modules: Golang Web APIs with GORM
       https://jfrog.com/blog/top-go-modules-golang-web-apis-with-gorm/ 
-      
+   - Building an Express-style API in Go with Fiber
+     https://blog.logrocket.com/express-style-api-go-fiber/ 
+     
 ## Golang : Concepts applied
   - GORM - It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:
      * mapping a database struct
      * connecting to the DB
      * initial migration to our db
-
+ - Fiber - It's a Go web framework built of Fasthttp, the fastest HTTP engine for Go. It was used in our project to handle operations such as routing/endpoints and middleware. 
 
     

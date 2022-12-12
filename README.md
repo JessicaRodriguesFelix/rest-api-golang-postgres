@@ -19,4 +19,7 @@ Project is created with:
   
    - TechWorld with Nana
       https://www.youtube.com/watch?v=3c-iBn73dDE&list=PLy7NrYWoggjxtN4YbSMYFFdpaxb-fR4zC
-    
+   - Div Rhino: 
+      https://divrhino.com/articles/full-stack-go-fiber-with-docker-postgres/
+   - Database Handling with Golang GORM (CRUD Handling)
+      https://dev.to/yanoandri/database-handling-with-golang-gorm-crud-handling-4c66

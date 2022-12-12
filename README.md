@@ -30,6 +30,12 @@ Project is created with:
       https://jfrog.com/blog/top-go-modules-golang-web-apis-with-gorm/ 
    - Building an Express-style API in Go with Fiber
      https://blog.logrocket.com/express-style-api-go-fiber/ 
+   - Go Fiber by Examples: How can the Fiber Web Framework be useful?
+     https://dev.to/koddr/go-fiber-by-examples-how-can-the-fiber-web-framework-be-useful-487a
+   - Go Web Examples - Templates
+     https://gowebexamples.com/templates/
+   - Http responses in go fiber in 3 steps [ Golang ]
+     https://bugz.pythonanywhere.com/gofiber/http-responses
      
 ## Golang : Concepts applied
   - GORM - It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:
@@ -38,5 +44,9 @@ Project is created with:
      * initial migration to our db
      
  - Fiber - It's an Express-inspired Go web framework built of Fasthttp, the fastest HTTP engine for Go. It was used in our project to handle operations such as routing/endpoints and middleware. 
+ 
+ - Fiber Template HTML: It's a template package that provides wrappers for multiple template engines. For our project we've used the engine html.
+
+ - 
 
     

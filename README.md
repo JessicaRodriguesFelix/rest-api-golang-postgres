@@ -19,6 +19,21 @@ In your IDE terminal run:
 ```sh
 docker compose up
 ```
+## Golang : Concepts applied
+
+  - GORM:  It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:
+     * mapping a database struct
+     * connecting to the DB
+     * initial migration to our db
+     
+ - Fiber: It's an Express-inspired Go web framework built of Fasthttp, the fastest HTTP engine for Go. It was used in our project to handle operations such as routing/endpoints and middleware. 
+ 
+ - Fiber Template HTML: It's a template package that provides wrappers for multiple template engines. For our project we've used the engine html.
+
+ - Go Air: It's a command-line utility that provides live reloading for Go applications.
+
+ - Partials templates: 
+
 ## Acknowledgments (Resources used along the way)
     
    - TechWorld with Nana (Docker Tutorial gor Beginners)
@@ -54,19 +69,5 @@ docker compose up
   - How I build web frontends in Go
      https://philipptanlak.com/web-frontends-in-go/
      
-## Golang : Concepts applied
-
-  - GORM:  It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:
-     * mapping a database struct
-     * connecting to the DB
-     * initial migration to our db
-     
- - Fiber: It's an Express-inspired Go web framework built of Fasthttp, the fastest HTTP engine for Go. It was used in our project to handle operations such as routing/endpoints and middleware. 
- 
- - Fiber Template HTML: It's a template package that provides wrappers for multiple template engines. For our project we've used the engine html.
-
- - Go Air: It's a command-line utility that provides live reloading for Go applications.
-
- - Partials templates: 
 
     

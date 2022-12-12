@@ -25,10 +25,15 @@ Project is created with:
    - Database Handling with Golang GORM (CRUD Handling)
       https://dev.to/yanoandri/database-handling-with-golang-gorm-crud-handling-4c66
    - How to build a RESTful API with Docker, PostgreSQL, and go-chi
-      https://blog.logrocket.com/how-to-build-a-restful-api-with-docker-postgresql-and-go-chi/    
+      https://blog.logrocket.com/how-to-build-a-restful-api-with-docker-postgresql-and-go-chi/ 
+   - Top Go Modules: Golang Web APIs with GORM
+      https://jfrog.com/blog/top-go-modules-golang-web-apis-with-gorm/ 
       
 ## Golang : Concepts applied
-  - GORM - It's a Object-relational mapping (ORM)library for Golang. 
+  - GORM - It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:
+     * mapping a database struct
+     * connecting to the DB
+     * initial migration to our db
 
 
     

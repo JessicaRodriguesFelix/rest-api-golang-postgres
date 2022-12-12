@@ -13,11 +13,9 @@ Project is created with:
     Client: 20.10.21
     Server: 20.10.21
 
-## Tutorials used along the way
-  
-  Docker Tutorial for Beginners 
-  
-   - TechWorld with Nana
+## Acknowledgments (Resources used along the way)
+    
+   - TechWorld with Nana (Docker Tutorial gor Beginners)
       https://www.youtube.com/watch?v=3c-iBn73dDE&list=PLy7NrYWoggjxtN4YbSMYFFdpaxb-fR4zC
    - Div Rhino: 
      * https://divrhino.com/articles/full-stack-go-fiber-with-docker-postgres/
@@ -36,6 +34,8 @@ Project is created with:
      https://gowebexamples.com/templates/
    - Http responses in go fiber in 3 steps [ Golang ]
      https://bugz.pythonanywhere.com/gofiber/http-responses
+   - Practical Go Lessons - Chapter 32: Templates
+     https://www.practical-go-lessons.com/chap-32-templates
      
 ## Golang : Concepts applied
   - GORM - It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:
@@ -47,6 +47,6 @@ Project is created with:
  
  - Fiber Template HTML: It's a template package that provides wrappers for multiple template engines. For our project we've used the engine html.
 
- - 
+  
 
     

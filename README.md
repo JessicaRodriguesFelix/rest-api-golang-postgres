@@ -42,6 +42,8 @@ docker compose up
      https://bugz.pythonanywhere.com/gofiber/http-responses
    - Practical Go Lessons - Chapter 32: Templates
      https://www.practical-go-lessons.com/chap-32-templates
+   - Partials Templates
+     https://gohugo.io/templates/partials/#:~:text=Partials%20are%20smaller%2C%20context%2Daware,to%20keep%20your%20templating%20DRY.
      
 ## Golang : Concepts applied
 
@@ -54,6 +56,6 @@ docker compose up
  
  - Fiber Template HTML: It's a template package that provides wrappers for multiple template engines. For our project we've used the engine html.
 
-  
+ - Partials templates: 
 
     

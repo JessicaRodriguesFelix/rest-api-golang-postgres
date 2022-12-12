@@ -6,7 +6,8 @@
 > Welcome to my first Golang application. This is a fullstack app with Go Fiber, Docker and Postgres! In this first version, you will be able to visualize all questions and answers and add a new one.   
 
 ## Technologies
-Project is created with:
+
+Project was created using:
 * Go 1.19.3
 * PostgreSQL 15.1
 * Docker version: 
@@ -38,6 +39,7 @@ Project is created with:
      https://www.practical-go-lessons.com/chap-32-templates
      
 ## Golang : Concepts applied
+
   - GORM - It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:
      * mapping a database struct
      * connecting to the DB

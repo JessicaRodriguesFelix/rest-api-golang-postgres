@@ -13,7 +13,12 @@ Project was created using:
 * Docker version: 
     Client: 20.10.21
     Server: 20.10.21
-
+    
+## Usage
+In your IDE terminal run:
+```sh
+docker compose up
+```
 ## Acknowledgments (Resources used along the way)
     
    - TechWorld with Nana (Docker Tutorial gor Beginners)

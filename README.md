@@ -36,6 +36,7 @@ Project is created with:
      * mapping a database struct
      * connecting to the DB
      * initial migration to our db
- - Fiber - It's a Go web framework built of Fasthttp, the fastest HTTP engine for Go. It was used in our project to handle operations such as routing/endpoints and middleware. 
+     
+ - Fiber - It's an Express-inspired Go web framework built of Fasthttp, the fastest HTTP engine for Go. It was used in our project to handle operations such as routing/endpoints and middleware. 
 
     

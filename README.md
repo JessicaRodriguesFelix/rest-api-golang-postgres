@@ -1,9 +1,9 @@
-<h1 align="center">Welcome to Golang Fullstack - IT Funny Questions and Answers👋</h1>
+<h1 align="center">Welcome to Golang - Trivia Game Questions and Answers👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Welcome to my first Golang application. This is a fullstack app with Go Fiber, Docker and Postgres! In this first version, you will be able to visualize all questions and answers and add a new one.   
+> Welcome to my first Golang application. This is a fullstack app built in using Go Fiber, Docker and Postgres! In this first version, you will be able to visualize all questions/answers and add a new one to the list!   
 
 ## Tech Stack
 

@@ -39,6 +39,7 @@ docker compose up
     
    - TechWorld with Nana (Docker Tutorial gor Beginners)
       https://www.youtube.com/watch?v=3c-iBn73dDE&list=PLy7NrYWoggjxtN4YbSMYFFdpaxb-fR4zC
+      https://nickjanetakis.com/blog/differences-between-a-dockerfile-docker-image-and-docker-container
    - Div Rhino: 
      * https://divrhino.com/articles/full-stack-go-fiber-with-docker-postgres/
      * https://dev.to/divrhino/build-a-rest-api-from-scratch-with-go-and-docker-3o54

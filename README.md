@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Golang - Trivia Game Questions and Answers👋</h1>
+<h1 align="center">Welcome to Coplay! - A Trivia Game Questions and Answers👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>

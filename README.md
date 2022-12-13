@@ -8,7 +8,8 @@
 ## Tech Stack
 
 Project was created using:
-* Go 1.19.3
+* Golang 1.19.3
+* Go Fiber Fiber v2.40.1 
 * PostgreSQL 15.1
 * Docker version: 
     Client: 20.10.21

@@ -21,6 +21,10 @@ In your IDE terminal run:
 ```sh
 docker compose up
 ```
+## ShowCase
+![coplay](https://user-images.githubusercontent.com/40796998/207687448-c02886d3-2519-498b-b9aa-737a4107a6bb.gif)
+
+
 ## Golang : Concepts applied
 
   - GORM:  It's a Object-relational mapping (ORM)library for Golang. It was used to setup up our database:

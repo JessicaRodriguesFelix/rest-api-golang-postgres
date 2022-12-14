@@ -10,5 +10,8 @@ func setupRoutes(app *fiber.App) {
 
 	app.Get("fact", handlers.NewFactView)
 
+	//new 
+	app.Delete("/fact/:id", handlers.DeleteFact)
+
 	app.Post("/fact", handlers.CreateFact)
 }

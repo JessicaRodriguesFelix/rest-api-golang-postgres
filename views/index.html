@@ -1,10 +1,10 @@
 <div class="container">
     {{ if .Facts }}
         {{ range .Facts }}
-        <div class="fact-item">
+        <div {{ .Id }} class="fact-item">
             <div class="question-wrapper">
                 <p class="question">{{ .Question }}</p>
-                <button class="answer-toggle">Toggle answer</button>
+                <button class="answer-toggle">Answer</button>              
             </div>
             <div class="answer-wrapper">
                 <p class="answer">{{ .Answer }}</p>

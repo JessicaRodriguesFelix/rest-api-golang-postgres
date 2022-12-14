@@ -62,13 +62,13 @@ table {
 body {
     line-height: 1;
 
-    background: hsla(64, 41%, 92%, 1);
+    background: rgb(150, 229, 243);
 
-    background: linear-gradient(315deg, hsla(64, 41%, 92%, 1) 0%, hsla(196, 83%, 84%, 1) 50%, hsla(305, 75%, 83%, 1) 100%);
+    background: linear-gradient(315deg, rgb(144, 205, 231) 0%, hsla(196, 83%, 84%, 1) 50%, rgb(91, 91, 232) 100%);
     
-    background: -moz-linear-gradient(315deg, hsla(64, 41%, 92%, 1) 0%, hsla(196, 83%, 84%, 1) 50%, hsla(305, 75%, 83%, 1) 100%);
+    background: -moz-linear-gradient(315deg, rgb(128, 203, 218) 0%, rgb(94, 157, 180) 50%, rgb(133, 237, 242) 100%);
     
-    background: -webkit-linear-gradient(315deg, hsla(64, 41%, 92%, 1) 0%, hsla(196, 83%, 84%, 1) 50%, hsla(305, 75%, 83%, 1) 100%);
+    background: -webkit-linear-gradient(315deg, rgb(167, 236, 194) 0%, rgb(147, 198, 217) 50%, rgb(145, 201, 231) 100%);
     
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F2F3E2", endColorstr="#B2E5F8", GradientType=1 );
 }
@@ -183,7 +183,6 @@ form input[type="submit"] {
     height: 80px;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-bottom: 80px;
 }
 
 .site-logo a {
@@ -193,7 +192,7 @@ form input[type="submit"] {
 }
 
 .site-logo img {
-    width: 80px;
+    width: 220px;
 }
 
 .fact-item {
@@ -203,7 +202,7 @@ form input[type="submit"] {
     margin-bottom: 10px;
     padding: 16px 20px;
     color: #555555;
-    background-color: aliceblue;
+    background-color: rgb(113, 195, 236);
     border-radius: 10px;
 }
 
@@ -215,10 +214,10 @@ form input[type="submit"] {
 .fact-item .answer-toggle {
     flex-basis: 10%;
     align-self: flex-start;
-    background-color: #f4e6f3;
-    border: 1px solid #f4b3ef;
+    background-color: #6699d6;
+    border: 1px solid #1891af;
     padding: 5px 10px;
-    color: #bd65b6;
+    color: #eef2f6;
     font-size: 10px;
     font-weight: 700;
     text-decoration: none;
@@ -232,7 +231,7 @@ form input[type="submit"] {
 }
 
 .fact-item .answer {
-    color: #bd65b6;
+    color: #5441d0;
     font-style: italic;
 }
 
